@@ -62,3 +62,7 @@ while True:
     print("\nКонвертация сәтті аяқталды")
     print("Уақыты:")
     print(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+
+    print("\nКонвертация сәтті аяқталды")
+    print("Уақыты:")
+    print(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
